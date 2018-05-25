@@ -6,7 +6,7 @@ package com.campusnum.reseausocial;
  */
 public class Message {
 	
-	String text;
+	private String text;
 	/**
 	 * Constructeur sans paramètres
 	 */
